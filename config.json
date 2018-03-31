@@ -47,13 +47,13 @@
             },
             {
                 "port": 1111,
-                "difficulty": 400000,
+                "difficulty": 200000,
                 "desc": "Hidden port",
                 "hidden": true
             }
         ],
         "varDiff": {
-            "minDiff": 1000,
+            "minDiff": 100,
             "maxDiff": 400000,
             "targetTime": 100,
             "retargetTime": 30,
