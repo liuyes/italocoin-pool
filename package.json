@@ -5,7 +5,7 @@
     "authors": "Matthew Little",
     "repository": {
         "type": "git",
-        "url": "git://github.com/italocoin-project/italocoin-pool.git"
+        "url": "https://github.com/italocoin-project/italocoin-pool.git"
     },
     "dependencies": {
         "bignum": "*",
@@ -14,8 +14,8 @@
         "cli-color": "*",
         "dateformat": "*",
         "base58-native": "*",
-        "multi-hashing": "git://github.com/italocoin-project/node-multi-hashing.git#Nan-2.0",
-        "cryptonote-util": "git://github.com/italocoin-project/node-cryptonote-util.git#xmr-Nan-2.0"
+        "multi-hashing": "https://github.com/grunjol/node-multi-hashing.git#Nan-2.0",
+        "cryptonote-util": "https://github.com/Snipa22/node-cryptonote-util.git#xmr-Nan-2.0"
     },
     "engines": {
         "node": ">=0.10"
