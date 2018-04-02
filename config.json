@@ -18,8 +18,8 @@
 
     "poolServer": {
         "enabled": true,
-        "clusterForks": 4,
-        "poolAddress": "jKUx6vG6ssVLcPh29xgCNkEVjFu5GtjK7MZJEECZHWzSFCU2Gtr3odQbsc78GzZsgiCVg7TdcMBXmTjxe4YDFwWD2VakoMwUr",
+        "clusterForks": 2,
+        "poolAddress": "ipPQjQYEQsLL7Gv43PpHDLiFLsZzoGuZtEJ8ZCW2is5TGeMNPo66bTKXAAd3m3ceXp4aweqmZnAHt9bWHALkK7xR2MVhF8QFZ",
         "blockRefreshInterval": 1000,
 		"addressSeparator": ".",
         "minerTimeout": 900,
@@ -88,7 +88,7 @@
         "enabled": true,
         "interval": 60,
         "maxAddresses": 50,
-        "mixin": 0,
+        "mixin": 7,
         "transferFee": 20000000,
         "minPayment":  1000000000000,
         "maxTransactionAmount": 0,
@@ -99,7 +99,7 @@
         "enabled": true,
         "interval": 30,
         "depth": 60,
-        "poolFee": 2,
+        "poolFee": 1,
         "devDonation": 0.0,
         "coreDevDonation": 0,
         "extraFeaturesDevDonation":0.0
@@ -112,7 +112,7 @@
         "port": 8117,
         "blocks": 30,
         "payments": 30,
-        "password": "YOUR ADMIN STATS PASSWORD",
+        "password": "yourpassword",
         "ssl": false,
         "sslport": 8119,
         "sslkey": "ssl/ipbc.io.key",
